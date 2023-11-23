@@ -1,20 +1,46 @@
 # -Notify-Bot
+<img src="https://github.com/shalithamadhuwantha/-Notify-Bot/blob/main/logo.jpg">
 This bot is a time reminder bot ... I will help you to manage your lecture or other class schedule .. this will definitely deliver the lecture or class time on time
+<br/>
 
-<img src="https://img.shields.io/badge/PYTHON-3.11-blue"> <img src="https://img.shields.io/badge/V-1.1.4-yellow"> <img src="https://img.shields.io/badge/license-GPL--3.0%20license-red">  <img src="https://img.shields.io/badge/java-19-orange">  <img src="https://img.shields.io/badge/jython-2.7.3-green"><br>
-<b><i>Use Internet Download Manager without crack or purchase</b></i>
+<img src="https://img.shields.io/badge/node-v20.9.0-blue"> <img src="https://img.shields.io/badge/JS--yellow"> <img src="https://img.shields.io/badge/license-Apache2.0-red">  <br>
+<b><i>This bot is a time reminder bot</b></i>
 
-## AUTO UPDATE METHOD 🔧
-#### 🔰 Automatic renewal every month ... no need to run the software once a month
-❌ NO GUI INTERFACE 
-1. Create a folder in Part C Name IDMR (Required Capital)
-2. download IDM date reset 
-3. Copy files to IDMR
-4. run IDMREG.reg file (Using double click)
+## Install ⚙
+
+```
+npm init
+```
 
 
-## AUTO UPDATE METHOD (GUI version)🔧
-#### ‼‼ You should run this software once a month
-<img src="[https://github.com/shalithamadhuwantha/IDM_RESET/blob/main/bin/idmss.PNG](https://github.com/shalithamadhuwantha/-Notify-Bot/blob/main/00001.jpg)https://github.com/shalithamadhuwantha/-Notify-Bot/blob/main/00001.jpg">
+```
+npm install
+```
+
+```
+npm cli
+```
+
+
+
+#### Please change everything in settings folder ... without setting.js ...
+#### Do not change the folder structure
+
+## Futures ⚙
+<img src="https://github.com/shalithamadhuwantha/-Notify-Bot/blob/main/cmd%20(2).jpg">
+<br/>
+
+✅ Reminder of pre-scheduled lecture time <br/>
+✅ Tagg all notification method <br/>
+✅ Admin management <br/>
+✅ whatsapp based database manager <br/>
+✅ Hide tag and normal tag method <br/>
+✅ Group registration for bot use (anonymous group not accepted) <br/>
+✅ Date based course filter method
+✅ More 
+
+<br/> <br/>
+
+🅱🆈     🆂🅷🅰🅻🅸🆃🅷🅰
 
 
