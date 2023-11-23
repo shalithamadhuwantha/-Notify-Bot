@@ -1,17 +1,15 @@
 // ***** DONT REMOVE THIS FILE
 // plz edit varible values
 const banner = `
- *වන්නිය CrEwS* 
+ 
 *notify BOT V0.1🚩 BETA* 
-🎓 *රජරට VERSION*
+
 `; 
 
-const name = "වන්නිය CrEwS "; 
+const name = "ShAlItHa"; 
 
 const adminlist = `
-ENT : kavindu : @94756100275
-BST : Imalsha : @94762677809
-ITT : Dulara  : @94768861019
+ShAlItHa : +94 078 874 3616
         `;
 const lecture_list =[ "ict","bst","ent","all"];
 
