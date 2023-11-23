@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "mysql2": "^3.6.3",
+    "node-cron": "^3.0.3",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "name": "wa-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wabot",
+    "webernetco",
+    "whatsapp",
+    "whatsapp bot",
+    "time reminder bot",
+    "school management",
+    "lecture time",
+    "alert bot",
+    "notify bot",
+    "notify whatsapp bot",
+    "weber",
+    "webernetco",
+    "shalitha madhuwantha"
+  ],
+  "author": "ShAlItHa",
+  "license": "ISC",
+  "description": ""
+}
